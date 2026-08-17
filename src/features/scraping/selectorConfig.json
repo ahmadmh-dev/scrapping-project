@@ -1,0 +1,8 @@
+{
+    "talabat":{
+        "restaurantTitleSelector": "[data-testid='restaurant-title']"
+    },
+    "DeliveryHero":{
+        "restaurantTitleSelector": "h1"
+    }
+}
